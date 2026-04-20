@@ -41,7 +41,9 @@ JTictactoe/
 ---
 
 ## Preview
-![Game Screenshot](file:///Users/kshitij/MyFolder/Screenshots/Screenshot%202026-04-20%20at%2014.47.11.png)
+![Game Screenshot 1](SS1.png)
+![Game Screenshot 2](SS2.png)
+![Game Screenshot 3](SS3.png)
 
 ---
 
